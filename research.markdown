@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 last_modified_at: 
-mathjax: true
+mathjax = true
 ---
 
 # Research Interests
