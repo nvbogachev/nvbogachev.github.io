@@ -3,8 +3,9 @@ layout: page
 title: Research
 permalink: /research/
 last_modified_at: 
+mathjax: true
 ---
-{%- include mathjax.html -%}
+
 
 # Research Interests
 Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic groups, combinatorics of polytopes, hyperbolic manifolds, reflection groups.
