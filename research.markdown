@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Research
 permalink: /research/
 last_modified_at: 
