@@ -30,13 +30,13 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
 
 # Papers
 
-1. Kleinian sphere packings, reflection groups and arithmeticity\
+- [Kleinian sphere packings, reflection groups and arithmeticity](https://arxiv.org/abs/2203.01973)\
   (with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/))\
   **Math. Comp.** 2023, [arXiv:2203.01973](https://arxiv.org/abs/2203.01973)
-2. On volumes of hyperbolic right-angled polyhedra\
+- On volumes of hyperbolic right-angled polyhedra\
   (with [Stepan Alexandrov](https://cyanprism.github.io/), Andrei Egorov & [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   **Sbornik: Mathematics** 2023, {% include arxiv_link.html id="2111.08789" %}
-3. From geometry to arithmetic of compact hyperbolic Coxeter polytopes\
+- From geometry to arithmetic of compact hyperbolic Coxeter polytopes\
   **Transformation Groups**, [arXiv:2003.11944](https://arxiv.org/abs/2003.11944)
 - On faces of quasi-arithmetic Coxeter polytopes\
   (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
