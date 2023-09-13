@@ -34,4 +34,17 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
   {% include arxiv_link.html id="2111.08789" %}, **Sbornik: Mathematics**
 - From geometry to arithmetic of compact hyperbolic Coxeter polytopes\
   **Transformation Groups**, [arXiv:2003.11944](https://arxiv.org/abs/2003.11944)
+- On faces of quasi-arithmetic Coxeter polytopes\
+  (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
+  **IMRN -- Int. Math. Res. Not.**, 2021, Vol. 2021, Issue 4, pp. 3078-3096. [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
+  + SageMath [worksheet PLoF](https://www.dropbox.com/s/l8rntjle8wwrrph/PLoF_Lower_dimensional_faces.ipynb)
+- On the classification of stably reflective hyperbolic $\mathbb{Z}[\sqrt{2}]$-lattices of rank $4$\
+  **Doklady Math.**, 2019.
+- Classification of (1,2)-reflective anisotropic hyperbolic lattices of rank 4"\
+  **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19, [arXiv:1903.08147](https://arxiv.org/abs/1903.08147v1)
+- Vinberg's Algorithm for Hyperbolic Lattices\
+  (with [Alexander Perepechko](http://a.perep.ru/))\
+  **Math. Notes**, 2018, Vol. 103:5, 836–840.
+- Reflective anisotropic hyperbolic lattices of rank 4\
+  **Russian Mathematical Surveys**, 2017, vol. 1 (433), p. 179 - 181
 
