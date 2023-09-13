@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<style>
+    #photo-wrap {
+      float: center
+    }
+
+    @media all and (max-width: 599px){
+      #photo {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 75%;
+      }
+    }
+
+    @media all and (min-width: 600px) {
+      #photo-wrap {
+        float: left
+      }
+
+      #photo-wrap {
+        margin: 0 2em .5em 0
+      }
+    }
+
+</style>
+
+<div class="home">
+  <figure id="photo-wrap">
+    <img id="photo" src="{{ '/assets/Nik+Sasha.jpg' | relative_url }}" width="300" style="border-radius: 5pt; align: center">
+    <figcaption align="center" style="padding: .5em 0 0 0"><i>  </i></figcaption>
+  </figure>
+  <!-- {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%} -->
+
+  {{ content }}
+
+  <!-- {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%} -->
+
+</div>
