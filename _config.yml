@@ -24,8 +24,6 @@ email: n.bogachev [at) utoronto [dot] ca
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nvbogachev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-markdown: maruku
-
 # Build settings
 theme: minima
 plugins:
