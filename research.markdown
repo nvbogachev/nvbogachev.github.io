@@ -15,17 +15,17 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
 
 # Preprints
 
-- Quasi-arithmetic hyperbolic Coxeter prisms\
+15. Quasi-arithmetic hyperbolic Coxeter prisms\
   (with Khusrav Yorov)
-- Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ 
+14. Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ 
   (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))
-- Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements\
-  (with Dmitry Guschin (MIPT) and [Andrei Vesnin](http://math.nsc.ru/~vesnin/)) 
-- Geometric and arithmetic properties of Löbell polyhedra\
+13. Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements\
+  (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/)), [arXiv:2307.07000](https://arxiv.org/abs/2307.07000) 
+12. Geometric and arithmetic properties of Löbell polyhedra\
   with [Sami Douba](https://www.ihes.fr/~/douba/), [arXiv:2304.12590](https://arxiv.org/abs/2304.12590).
-- Thin hyperbolic reflection groups\
+11. Thin hyperbolic reflection groups\
   (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/)), [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
-- Subspace stabilisers in hyperbolic lattices\
+10. Subspace stabilisers in hyperbolic lattices\
   (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/)) 
 
 # Papers
@@ -51,4 +51,8 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
   **Math. Notes**, 2018, Vol. 103:5, 836–840.
 - Reflective anisotropic hyperbolic lattices of rank 4\
   **Russian Mathematical Surveys**, 2017, vol. 1 (433), p. 179 - 181
+  
+# ML Conferences
 
+- Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
+  (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
