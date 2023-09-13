@@ -6,7 +6,7 @@ layout: home
 last_modified_at: 2023-09-01
 ---
 
-I am a mathematician with research interests in geometry, arithmetic and dynamics of discrete groups.
+I am a mathematician with research interests in geometry, arithmetic and dynamics of discrete groups. Starting Fall 2023, I am a Mendelzon-CLTA Assistant Professor in Mathematics at the University of Toronto Scarborough. Before that I was a Postdoctoral Fellow at the University of Toronto. 
 
 I am one of the organizers of the [Vinberg Distinguished Lecture Series](https://vinberg.combgeo.org/).
 

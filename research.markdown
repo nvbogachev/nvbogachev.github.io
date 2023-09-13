@@ -8,12 +8,12 @@ mathjax: true
 
 
 # Research Interests
-Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic groups, combinatorics of polytopes, hyperbolic manifolds, reflection groups.
+Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattices, hyperbolic geometry and topology, hyperbolic manifolds and orbifolds, hyperbolic reflection groups, Coxeter polytopes, arithmetic hyperbolic reflection groups, reflective Lorentzian lattices.
 
 # Current Projects
 
 
-# Preprints
+# Preprints/submitted papers
 
 15. Quasi-arithmetic hyperbolic Coxeter prisms\
   (with Khusrav Yorov)
@@ -28,7 +28,7 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
 10. Subspace stabilisers in hyperbolic lattices\
   (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/)) 
 
-# Papers
+# Published/accepted papers
 
 - [Kleinian sphere packings, reflection groups and arithmeticity](https://arxiv.org/abs/2203.01973)\
   (with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/))\
