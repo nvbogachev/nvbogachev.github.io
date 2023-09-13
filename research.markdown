@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 last_modified_at: 
-mathjax = true
+mathjax: true
 ---
 
 # Research Interests
@@ -14,7 +14,7 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
 
 # Papers
 
-- polyhedra in $H^4$
+- Infinitely many commensurability classes of compact Coxeter polyhedra in $H^4$ and $H^5$
 - On volumes of hyperbolic right-angled polyhedra\
-  {% include arxiv_link.html id="2111.08789" %}, *Sbornik: Mathematics*\
+  {% include arxiv_link.html id="2111.08789" %}, *Sbornik: Mathematics*
 
