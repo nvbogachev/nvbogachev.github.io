@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 last_modified_at: 
 tag: [MathJax]
-mathjax=true
+mathjax:true
 ---
 
 # Research Interests
