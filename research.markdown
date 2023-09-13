@@ -20,7 +20,11 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
 - Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ 
   (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))
 - Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements\
-  (with )  
+  (with Dmitry Guschin (MIPT) and [Andrei Vesnin](http://math.nsc.ru/~vesnin/)) 
+- Geometric and arithmetic properties of Löbell polyhedra\
+  with [Sami Douba](https://www.ihes.fr/~/douba/), [arXiv:2304.12590](https://arxiv.org/abs/2304.12590).
+- Thin hyperbolic reflection groups\
+  (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/)), [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
 - Subspace stabilisers in hyperbolic lattices\
   (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/)) 
 
@@ -28,10 +32,10 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
 
 - Kleinian sphere packings, reflection groups and arithmeticity\
   (with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Sasha Kolpakov](https://sashakolpakov.wordpress.com/))\
-  [arXiv:2203.01973](https://arxiv.org/abs/2203.01973), accepted to **Math. Comp.**
+  **Math. Comp.** 2023, [arXiv:2203.01973](https://arxiv.org/abs/2203.01973)
 - On volumes of hyperbolic right-angled polyhedra\
-  (with Stepan)\
-  {% include arxiv_link.html id="2111.08789" %}, **Sbornik: Mathematics**
+  (with [Stepan Alexandrov](https://cyanprism.github.io/), Andrei Egorov & [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
+  **Sbornik: Mathematics** 2023, {% include arxiv_link.html id="2111.08789" %}
 - From geometry to arithmetic of compact hyperbolic Coxeter polytopes\
   **Transformation Groups**, [arXiv:2003.11944](https://arxiv.org/abs/2003.11944)
 - On faces of quasi-arithmetic Coxeter polytopes\
