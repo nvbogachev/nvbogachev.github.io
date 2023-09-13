@@ -19,6 +19,7 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
   (with Khusrav Yorov)
 - Infinitely many commensurability classes of compact Coxeter polyhedra in $H^4$ and $H^5$ 
   (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))
+- Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements
 - Subspace stabilisers in hyperbolic lattices\
   (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/)) 
 
