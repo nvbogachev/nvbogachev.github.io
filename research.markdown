@@ -63,5 +63,5 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
   N. Bogachev: SageMath worksheet, GitHub: [SmaRBA.ipynb](https://github.com/nvbogachev/OuterMostEdge/blob/master/SmaRBA.ipynb).
 - **PLoF**: *Polytope’s lower-dimensional faces*, 2020\
   N. Bogachev and A. Kolpakov: SageMath worksheet, GitHub: [PLoF](https://github.com/sashakolpakov/plof)
-- **VinAl**: *Vinberg's Algorithm*, 2017--2022\
-  N. Bogachev and A. Perepechko: [GitHub](\url{https://github.com/aperep/vinberg-algorithm), [DOI](https://zenodo.org/record/1098448}{10.5281/zenodo.1098448).
+- **VinAl**: *Vinberg's Algorithm*, 2017-2022\
+  N. Bogachev and A. Perepechko: [GitHub](https://github.com/aperep/vinberg-algorithm), [DOI](https://zenodo.org/record/1098448).
