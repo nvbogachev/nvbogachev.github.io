@@ -56,3 +56,12 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 
 1. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
   (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
+  
+  # Tools & Algorithms
+  
+- **SmaRBA**: *Small Ridges, Bounds and Applications*, 2020\
+  N. Bogachev: SageMath worksheet, GitHub: [SmaRBA.ipynb](https://github.com/nvbogachev/OuterMostEdge/blob/master/SmaRBA.ipynb).
+- **PLoF**: *Polytope’s lower-dimensional faces*, 2020\
+  N. Bogachev and A. Kolpakov: SageMath worksheet, GitHub: [PLoF](https://github.com/sashakolpakov/plof)
+- **VinAl**: *Vinberg's Algorithm*, 2017--2022\
+  N. Bogachev and A. Perepechko: [GitHub](\url{https://github.com/aperep/vinberg-algorithm), [DOI](https://zenodo.org/record/1098448}{10.5281/zenodo.1098448).
