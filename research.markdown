@@ -15,6 +15,7 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
 
 # Papers
 
+- Quasi-arithmetic hyperbolic Coxeter prisms
 - Infinitely many commensurability classes of compact Coxeter polyhedra in $H^4$ and $H^5$
 - On volumes of hyperbolic right-angled polyhedra\
   {% include arxiv_link.html id="2111.08789" %}, *Sbornik: Mathematics*
