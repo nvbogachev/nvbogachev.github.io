@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 last_modified_at: 
+tag: [MathJax]
 mathjax: true
 ---
 
