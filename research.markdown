@@ -20,7 +20,7 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
 - Infinitely many commensurability classes of compact Coxeter polyhedra in $H^4$ and $H^5$ 
   (with Sami Douba and Jean Raimbault)
 - Subspace stabilisers in hyperbolic lattices\
-  (with) 
+  (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/)) 
 
 # Papers
 
