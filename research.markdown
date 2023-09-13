@@ -28,7 +28,7 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
   [arXiv:2203.01973](https://arxiv.org/abs/2203.01973), accepted to **Math. Comp.**
 - On volumes of hyperbolic right-angled polyhedra\
   (with)\
-  {% include arxiv_link.html id="2111.08789" %}, *Sbornik: Mathematics*
+  {% include arxiv_link.html id="2111.08789" %}, **Sbornik: Mathematics**
 - From geometry to arithmetic of compact hyperbolic Coxeter polytopes\
   **Transformation Groups**, [arXiv:2003.11944](https://arxiv.org/abs/2003.11944)
 
