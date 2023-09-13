@@ -9,8 +9,9 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
   {%- include google-analytics.html -%}
   {%- endif -%}
-  {% if page.mathjax %}
-    {% include mathjax.html %}
-  {% endif %}
 </head>
+
+{% if page.mathjax %}
+  {% include mathjax.html %}
+{% endif %}
 
