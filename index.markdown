@@ -16,10 +16,4 @@ I am one of the organizers of the [Vinberg Distinguished Lecture Series](https:/
 
   - 2017, 2018: The Simons Foundation Prize for PhD students.
 
-**Education:**
 
-  - PhD in Mathematics, 2019, Higher School of Economics
-  
-  - PhD-program in Mathematics, 2014--2018, Moscow State University
-
-  - MSc in Mathematics, 2014, Moscow State University

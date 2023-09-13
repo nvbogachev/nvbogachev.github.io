@@ -13,6 +13,7 @@ Coxeter polytopes, right-angled polytopes, hyperbolic geometry, arithmetic group
 
 # Papers
 
+- polyhedra in $H^4$
 - On volumes of hyperbolic right-angled polyhedra\
   {% include arxiv_link.html id="2111.08789" %}---accepted to *Sbornik: Mathematics*\
   [doi:10.4213/sm9740](https://www.mathnet.ru/eng/sm9740)---published in Russian in *Matematicheskii Sbornik*

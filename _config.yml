@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stepan Alexandrov
-author: Stepan Alexandrov
-email: cyanprism@gmail.com
+title: Nikolay Bogachev
+author: Nikolay Bogachev
+email: n.bogachev [at) utoronto [dot] ca
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cyanprism.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nvbogachev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
