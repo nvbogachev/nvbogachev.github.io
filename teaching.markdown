@@ -7,7 +7,7 @@ mathjax: true
 ---
 
 
-### University of Toronto (2023 -- present)
+### **University of Toronto (2023 -- present)**
 
 **Fall 2023**
 
@@ -19,7 +19,7 @@ mathjax: true
 - MAT402: Classical Geometries
 
 
-### Moscow Institute of Physics and Technology (2016 -- 2022)
+### **Moscow Institute of Physics and Technology (2016 -- 2022)**
 
 **Spring 2022**
 
@@ -29,13 +29,13 @@ mathjax: true
 
 **Fall 2021**
 
-- **Bachelor's Level at the MIPT:** lectures on Geometry in Computer Science at the MIPT.
+- **Bachelor's Level at the MIPT:** Geometry in Computer Science at the MIPT (in Russian)
 
 - **Master's Level at the MIPT:** lectures and webinars on Linear Algebra Online (in English)
 
 - **Advanced Course at the MIPT:** Ergodic theory and dynamics of discrete groups (in Russian).
 
-- **Research Seminar at the MIPT:** Algebra, geometry, and topology at the MIPT
+- **Research Seminar at the MIPT:** Algebra, geometry, and topology at the MIPT (Russian/English)
 
 
 
