@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Arithmeticity of hyperbolic reflection groups
 permalink: /arhg/
 last_modified_at: 13-09-23
 mathjax: true
 ---
 
 
--  This is an attempt to collect some results concerning classification of arithmetic hyperbolic reflection groups and reflective hyperbolic lattices.
--  This page is under construction. Any suggestions and corrections are welcome.
--  For more detailed discussion of the general theory of hyperbolic [Coxeter](https://en.wikipedia.org/wiki/Harold_Scott_MacDonald_Coxeter) polytopes see the [page](http://www.maths.dur.ac.uk/users/anna.felikson/Polytopes/polytopes.html) of [Anna Felikson](http://www.maths.dur.ac.uk/users/anna.felikson/) and [Pavel Tumarkin](http://www.maths.dur.ac.uk/users/pavel.tumarkin/).
+- This is an attempt to collect some results concerning classification of arithmetic hyperbolic reflection groups and reflective hyperbolic lattices.
+- This page is under construction. Any suggestions and corrections are welcome.
+- For more detailed discussion of the general theory of hyperbolic [Coxeter](https://en.wikipedia.org/wiki/Harold_Scott_MacDonald_Coxeter) polytopes see the [page](http://www.maths.dur.ac.uk/users/anna.felikson/Polytopes/polytopes.html) of [Anna Felikson](http://www.maths.dur.ac.uk/users/anna.felikson/) and [Pavel Tumarkin](http://www.maths.dur.ac.uk/users/pavel.tumarkin/).
 - This page is constructed by [Nikolay Bogachev](https://nvbogachev.netlify.com/). The idea is suggested by [Anna Felikson](http://www.maths.dur.ac.uk/users/anna.felikson/) and [Ruth Kellerhals](http://homeweb1.unifr.ch/kellerha/pub/Ruth-Main.html).
 
 
@@ -20,7 +19,7 @@ mathjax: true
 
 - Suppose $O'(f, A)$ is the group of integral automorphisms (i.e. the automorphisms with coefficients from $A$) of the form $f(x)$, preserving the $n$-dimensional Lobachevsky (hyperbolic) space $\mathbb{H^n}$.
 
-- By the result of A. Borel and Harish-Chandra (see [BHC62]) or G. Mostow and Tamagawa (see [MT62]), the group $O'(f, A)$ is the cocompact discrete group of motions of the space $\mathbb{H}^n$ with an exception of the field $\mathbb{F} = \mathbb{Q}$, when such group could be of cofinite volume, but not cocompact. The case $\mathbb{F} = \mathbb{Q}$ (when $\mathbb{O}_{\mathbb{F}} = \mathbb{Z}$) was studied by Venkov in 1937 (see [Ven37]). The groups $O'(f,\mathbb{Z})$ is cocompact only in the case, when the form $f(x)$ is anisotropic. All rational quadratic forms $f(x)$ of 5 and more variables are isotropic.
+- By the result of A. Borel and Harish-Chandra (see BHC62) or G. Mostow and Tamagawa (see MT62), the group $O'(f, A)$ is the cocompact discrete group of motions of the space $\mathbb{H}^n$ with an exception of the field $\mathbb{F} = \mathbb{Q}$, when such group could be of cofinite volume, but not cocompact. The case $\mathbb{F} = \mathbb{Q}$ (when $\mathbb{O}_{\mathbb{F}} = \mathbb{Z}$) was studied by Venkov in 1937 (see [Ven37]). The groups $O'(f,\mathbb{Z})$ is cocompact only in the case, when the form $f(x)$ is anisotropic. All rational quadratic forms $f(x)$ of 5 and more variables are isotropic.
 
 - Such groups $O'(f, \mathbb{O}_{\mathbb{F}})$ are said to be $\textbf{arithmetic lattices of simplest type}$.
 
