@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-last_modified_at: 2023-09-01
+last_modified_at: 2023-09-14
 ---
 
 I am a mathematician with research interests in the geometry, arithmetic and dynamics of discrete groups. Starting Fall 2023, I am a Mendelzon-CLTA Assistant Professor in Mathematics at the [Department of Computer and Mathematical Sciences of the University of Toronto Scarborough](https://www.utsc.utoronto.ca/cms/). Previously I was a Postdoctoral Fellow at the University of Toronto, a permanent Research Scientist at the Institute for Information Transmission Problems (Moscow), Assistant Professor at the Moscow Institute of Physics and Technology, and a Postdoctoral Fellow at Skoltech (also Moscow).
