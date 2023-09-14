@@ -61,5 +61,4 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 # Unpublished notes
 
 - Preprint 2016: *Reflective anisotropic hyperbolic lattices of rank 4*, [arXiv:1610.06148](https://arxiv.org/abs/1610.06148)
-
-- Notes on determinantal point processes, 2015.
+- Notes on determinantal point processes, 2015
