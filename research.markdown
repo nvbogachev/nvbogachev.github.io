@@ -18,11 +18,11 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 6. Quasi-arithmetic hyperbolic Coxeter prisms (with Kh. Yorov)
 5. Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ (with [S. Douba](https://www.ihes.fr/~/douba/) and [J. Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))
 4. Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
-  [arXiv:2307.07000](https://arxiv.org/abs/2307.07000) 
+  [arXiv-2307](https://arxiv.org/abs/2307.07000) 
 3. Geometric and arithmetic properties of Löbell polyhedra (with [Sami Douba](https://www.ihes.fr/~/douba/)), 
-  [arXiv:2304.12590](https://arxiv.org/abs/2304.12590).
-2. Thin hyperbolic reflection groups (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/)), [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
-1. Subspace stabilisers in hyperbolic lattices (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/)) 
+  [arXiv-2304](https://arxiv.org/abs/2304.12590).
+2. Thin hyperbolic reflection groups (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/)), [arXiv-2112](https://arxiv.org/abs/2112.14642)
+1. Subspace stabilisers in hyperbolic lattices (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/)), [arXiv-2105](https://arxiv.org/abs/2105.06897) 
 
 # Published/accepted papers
 
