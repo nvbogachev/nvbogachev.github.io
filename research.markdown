@@ -16,7 +16,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 # Preprints/submitted papers
 
 6. Quasi-arithmetic hyperbolic Coxeter prisms (with Kh. Yorov)\
-  submitted 2023
+  arXiv:2309
 5. Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ (with [S. Douba](https://www.ihes.fr/~/douba/) and [J. Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
   [arXiv:2309](https://arxiv.org/abs/2309.07691)
 4. Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
@@ -24,7 +24,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 3. Geometric and arithmetic properties of Löbell polyhedra (with [Sami Douba](https://www.ihes.fr/~/douba/))\
   [arXiv:2304](https://arxiv.org/abs/2304.12590).
 2. Thin hyperbolic reflection groups (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
-  [arXiv-2112](https://arxiv.org/abs/2112.14642)
+  [arXiv:2112](https://arxiv.org/abs/2112.14642)
 1. Subspace stabilisers in hyperbolic lattices (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
   [arXiv:2105](https://arxiv.org/abs/2105.06897) 
 
