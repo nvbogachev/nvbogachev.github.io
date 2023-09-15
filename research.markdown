@@ -18,12 +18,13 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 6. Quasi-arithmetic hyperbolic Coxeter prisms (with Kh. Yorov)\
   submitted 2023
 5. Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ (with [S. Douba](https://www.ihes.fr/~/douba/) and [J. Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
-  submitted 2023
+  [arXiv:2309](https://arxiv.org/abs/2309.07691)
 4. Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   [arXiv:2307](https://arxiv.org/abs/2307.07000) 
 3. Geometric and arithmetic properties of Löbell polyhedra (with [Sami Douba](https://www.ihes.fr/~/douba/))\
   [arXiv:2304](https://arxiv.org/abs/2304.12590).
-2. Thin hyperbolic reflection groups (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/)), [arXiv-2112](https://arxiv.org/abs/2112.14642)
+2. Thin hyperbolic reflection groups (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
+  [arXiv-2112](https://arxiv.org/abs/2112.14642)
 1. Subspace stabilisers in hyperbolic lattices (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
   [arXiv:2105](https://arxiv.org/abs/2105.06897) 
 
@@ -33,7 +34,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
   **Math. Comp.**, 2023
 7. [On volumes of hyperbolic right-angled polyhedra](https://arxiv.org/abs/2111.08789) (with [Stepan Alexandrov](https://cyanprism.github.io/), Andrei Egorov & [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   **Sbornik: Mathematics**, 2023
-6. From geometry to arithmetic of compact hyperbolic Coxeter polytopes\
+6. [From geometry to arithmetic of compact hyperbolic Coxeter polytopes](https://arxiv.org/abs/2003.11944)\
   **Transformation Groups**, [arXiv:2003.11944](https://arxiv.org/abs/2003.11944)
 5. On faces of quasi-arithmetic Coxeter polytopes (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   **IMRN -- Int. Math. Res. Not.**, 2021, Vol. 2021, Issue 4, pp. 3078-3096. [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
