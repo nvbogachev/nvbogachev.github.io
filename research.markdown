@@ -8,7 +8,7 @@ mathjax: true
 
 
 # Research Interests
-Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattices, hyperbolic geometry and topology, hyperbolic manifolds and orbifolds, hyperbolic reflection groups, Coxeter polytopes, arithmetic hyperbolic reflection groups, and reflective Lorentzian lattices.
+Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and quasi-arithmetic lattices, hyperbolic geometry and topology, hyperbolic manifolds and orbifolds, hyperbolic reflection groups, Coxeter polytopes, arithmetic hyperbolic reflection groups, and reflective Lorentzian lattices.
 
 # Current Projects
 
@@ -35,13 +35,13 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic lattic
 7. [On volumes of hyperbolic right-angled polyhedra](https://arxiv.org/abs/2111.08789) (with [Stepan Alexandrov](https://cyanprism.github.io/), Andrei Egorov & [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   **Sbornik: Mathematics**, 2023
 6. [From geometry to arithmetic of compact hyperbolic Coxeter polytopes](https://arxiv.org/abs/2003.11944)\
-  **Transformation Groups**, [arXiv:2003.11944](https://arxiv.org/abs/2003.11944)
-5. On faces of quasi-arithmetic Coxeter polytopes (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
-  **IMRN -- Int. Math. Res. Not.**, 2021, Vol. 2021, Issue 4, pp. 3078-3096. [arXiv:2002.11445](https://arxiv.org/abs/2002.11445v2)
+  **Transformation Groups**, 2023
+5. [On faces of quasi-arithmetic Coxeter polytopes](https://arxiv.org/abs/2002.11445v2) (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
+  **IMRN -- Int. Math. Res. Not.**, 2021, Vol. 2021, Issue 4, pp. 3078-3096.
 4. On the classification of stably reflective hyperbolic $\mathbb{Z}[\sqrt{2}]$-lattices of rank $4$\
   **Doklady Math.**, 2019.
-3. Classification of (1,2)-reflective anisotropic hyperbolic lattices of rank 4\
-  **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19, [arXiv:1903.08147](https://arxiv.org/abs/1903.08147v1)
+3. [Classification of (1,2)-reflective anisotropic hyperbolic lattices of rank 4](https://arxiv.org/abs/1903.08147v1)\
+  **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19.
 2. Vinberg's Algorithm for Hyperbolic Lattices (with [Alexander Perepechko](http://a.perep.ru/))\
   **Math. Notes**, 2018, Vol. 103:5, 836–840.
 1. Reflective anisotropic hyperbolic lattices of rank 4\
