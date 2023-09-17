@@ -15,9 +15,9 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 
 # Preprints/submitted papers
 
-6. Quasi-arithmetic hyperbolic Coxeter prisms (with Kh. Yorov)\
+6. Quasi-arithmetic hyperbolic Coxeter prisms (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
   arXiv:2309
-5. Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ (with [S. Douba](https://www.ihes.fr/~/douba/) and [J. Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
+5. Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
   [arXiv:2309](https://arxiv.org/abs/2309.07691)
 4. Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   [arXiv:2307](https://arxiv.org/abs/2307.07000) 
@@ -37,13 +37,13 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 6. [From geometry to arithmetic of compact hyperbolic Coxeter polytopes](https://arxiv.org/abs/2003.11944)\
   **Transformation Groups**, 2023
 5. [On faces of quasi-arithmetic Coxeter polytopes](https://arxiv.org/abs/2002.11445v2) (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
-  **IMRN -- Int. Math. Res. Not.**, 2021, Vol. 2021, Issue 4, pp. 3078-3096.
-4. On the classification of stably reflective hyperbolic $\mathbb{Z}[\sqrt{2}]\!$-lattices of rank $4$\
+  **IMRN -- Int. Math. Res. Not.**, 2021, Vol. 2021, Issue 4, pp. 3078--3096.
+4. On the classification of stably reflective hyperbolic $\mathbb{Z}[\sqrt{2}]$-lattices of rank $4$\
   **Doklady Math.**, 2019.
 3. [Classification of (1,2)-reflective anisotropic hyperbolic lattices of rank 4](https://arxiv.org/abs/1903.08147v1)\
-  **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1–19.
+  **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1--19.
 2. Vinberg's Algorithm for Hyperbolic Lattices (with [Alexander Perepechko](http://a.perep.ru/))\
-  **Math. Notes**, 2018, Vol. 103:5, 836–840.
+  **Math. Notes**, 2018, Vol. 103:5, pp. 836--840.
 1. Reflective anisotropic hyperbolic lattices of rank 4\
   **Russian Mathematical Surveys**, 2017, vol. 1 (433), p. 179--181
   
