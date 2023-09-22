@@ -6,7 +6,7 @@ layout: home
 last_modified_at: 2023-09-14
 ---
 
-I am a mathematician with research interests in the geometry, arithmetic and dynamics of discrete groups. Starting Fall 2023, I am a Mendelzon-CLTA Assistant Professor in Mathematics at the [Department of Computer and Mathematical Sciences of the University of Toronto Scarborough](https://www.utsc.utoronto.ca/cms/). Previously I was a Postdoctoral Fellow at the University of Toronto, a permanent Research Scientist at the Institute for Information Transmission Problems (Moscow), Assistant Professor at the Moscow Institute of Physics and Technology, and a Postdoctoral Fellow at Skoltech (also Moscow).
+I am a mathematician with research interests in the geometry, arithmetic and dynamics of discrete groups as well as in applications of geometry and topology to machine learning and computer science. Starting Fall 2023, I am a Mendelzon-CLTA Assistant Professor in Mathematics at the [Department of Computer and Mathematical Sciences of the University of Toronto Scarborough](https://www.utsc.utoronto.ca/cms/). Previously I was a Postdoctoral Fellow at the University of Toronto, a permanent Research Scientist at the Institute for Information Transmission Problems (Moscow), Assistant Professor at the Moscow Institute of Physics and Technology, and a Postdoctoral Fellow at Skoltech (also Moscow).
 
 In 2014, I graduated from Moscow State University under the supervision of [Professor **Ernest B. Vinberg**](https://en.wikipedia.org/wiki/Ernest_Vinberg) (see also [here](http://www.ams.org/distribution/mmj/vol8-4-2008/vinberg-birthday.html)). My PhD thesis under his supervision was defended in March 2019. Here you can find my CV, papers, information about my projects and the materials of my teaching courses.
 
