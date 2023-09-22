@@ -10,8 +10,6 @@ mathjax: true
 # Research Interests
 Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and quasi-arithmetic lattices, hyperbolic geometry and topology, hyperbolic manifolds and orbifolds, hyperbolic reflection groups, Coxeter polytopes, arithmetic hyperbolic reflection groups, and reflective Lorentzian lattices.
 
-# Current Projects
-
 
 # Preprints/submitted papers
 
