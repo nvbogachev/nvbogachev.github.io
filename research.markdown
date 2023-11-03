@@ -13,8 +13,10 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 
 # Preprints/submitted papers
 
-6. Quasi-arithmetic hyperbolic Coxeter prisms (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
-  arXiv:2309
+7. Quasi-arithmetic hyperbolic Coxeter prisms (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
+  arXiv:2311
+6. Arithmetic trialitarian hyperbolic lattices are not LERF (with [Leone Slavich](http://matematica.unipv.it/slavich/) and [Hongbin Sun](https://sites.math.rutgers.edu/~hs735/))\
+  [arXiv:2310](https://arxiv.org/abs/2310.20611)
 5. Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
   [arXiv:2309](https://arxiv.org/abs/2309.07691)
 4. Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
