@@ -31,7 +31,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 # Published/accepted papers
 
 8. [Kleinian sphere packings, reflection groups and arithmeticity](https://arxiv.org/abs/2203.01973) (with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
-  **Math. Comp.**, 2023
+  **Math. Comp.**, 2024, Vol. 93, 505-521
 7. [On volumes of hyperbolic right-angled polyhedra](https://arxiv.org/abs/2111.08789) (with [Stepan Alexandrov](https://cyanprism.github.io/), Andrei Egorov & [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   **Sbornik: Mathematics**, 2023
 6. [From geometry to arithmetic of compact hyperbolic Coxeter polytopes](https://arxiv.org/abs/2003.11944)\
