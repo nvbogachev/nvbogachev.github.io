@@ -13,23 +13,23 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 
 # Preprints/submitted papers
 
-7. Quasi-arithmetic hyperbolic Coxeter prisms (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
-  [arXiv:2312](https://arxiv.org/abs/2312.17193)
-6. Arithmetic trialitarian hyperbolic lattices are not LERF (with [Leone Slavich](http://matematica.unipv.it/slavich/) and [Hongbin Sun](https://sites.math.rutgers.edu/~hs735/))\
-  [arXiv:2310](https://arxiv.org/abs/2310.20611)
+6. Quasi-arithmetic hyperbolic Coxeter prisms (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
+  [arXiv:2312.17193](https://arxiv.org/abs/2312.17193)
 5. Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
-  [arXiv:2309](https://arxiv.org/abs/2309.07691)
+  [arXiv:2309.07691](https://arxiv.org/abs/2309.07691)
 4. Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
-  [arXiv:2307](https://arxiv.org/abs/2307.07000) 
+  [arXiv:2307.07000](https://arxiv.org/abs/2307.07000) 
 3. Geometric and arithmetic properties of Löbell polyhedra (with [Sami Douba](https://www.ihes.fr/~/douba/))\
-  [arXiv:2304](https://arxiv.org/abs/2304.12590).
+  [arXiv:2304.12590](https://arxiv.org/abs/2304.12590).
 2. Thin hyperbolic reflection groups (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
-  [arXiv:2112](https://arxiv.org/abs/2112.14642)
+  [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
 1. Subspace stabilisers in hyperbolic lattices (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
-  [arXiv:2105](https://arxiv.org/abs/2105.06897) 
+  [arXiv:2105.06897](https://arxiv.org/abs/2105.06897) 
 
 # Published/accepted papers
 
+9. [Arithmetic trialitarian hyperbolic lattices are not LERF](https://arxiv.org/abs/2310.20611) (with [Leone Slavich](http://matematica.unipv.it/slavich/) and [Hongbin Sun](https://sites.math.rutgers.edu/~hs735/))\
+  **IMRN -- Int. Math. Res. Not.** (to appear)
 8. [Kleinian sphere packings, reflection groups and arithmeticity](https://arxiv.org/abs/2203.01973) (with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   **Math. Comp.**, 2024, Vol. 93, 505-521
 7. [On volumes of hyperbolic right-angled polyhedra](https://arxiv.org/abs/2111.08789) (with [Stepan Alexandrov](https://cyanprism.github.io/), Andrei Egorov & [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
