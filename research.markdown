@@ -13,11 +13,9 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 
 # Preprints/submitted papers
 
-6. Quasi-arithmetic hyperbolic Coxeter prisms (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
+4. Quasi-arithmetic hyperbolic Coxeter prisms (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
   [arXiv:2312.17193](https://arxiv.org/abs/2312.17193), [pdf](Quasi_arithmetic_Coxeter_prisms-2024.pdf)
-5. Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$ (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
-  [arXiv:2309.07691](https://arxiv.org/abs/2309.07691)
-4. Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
+3. Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   [arXiv:2307.07000](https://arxiv.org/abs/2307.07000) 
 2. Thin hyperbolic reflection groups (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
@@ -26,10 +24,12 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 
 # Published/accepted papers
 
+11. [Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$](https://arxiv.org/abs/2309.07691) (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
+  **Adv. Math.** (to appear)
 10. [Geometric and arithmetic properties of Löbell polyhedra](https://arxiv.org/abs/2304.12590) (with [Sami Douba](https://www.ihes.fr/~/douba/))\
   **Alg. Geom. Topol.** (to appear)
 9. [Arithmetic trialitarian hyperbolic lattices are not LERF](https://arxiv.org/abs/2310.20611) (with [Leone Slavich](http://matematica.unipv.it/slavich/) and [Hongbin Sun](https://sites.math.rutgers.edu/~hs735/))\
-  **IMRN -- Int. Math. Res. Not.** (to appear)
+  **Int. Math. Res. Not.** (to appear)
 8. [Kleinian sphere packings, reflection groups and arithmeticity](https://arxiv.org/abs/2203.01973) (with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   **Math. Comp.**, 2024, Vol. 93, no. 345, pp. 505--521.
 7. [On volumes of hyperbolic right-angled polyhedra](https://arxiv.org/abs/2111.08789) (with [Stepan Alexandrov](https://cyanprism.github.io/), Andrei Egorov & [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
@@ -37,7 +37,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 6. [From geometry to arithmetic of compact hyperbolic Coxeter polytopes](https://arxiv.org/abs/2003.11944)\
   **Transformation Groups**, 2023, Vol. 28, no. 1, pp. 77--105.
 5. [On faces of quasi-arithmetic Coxeter polytopes](https://arxiv.org/abs/2002.11445v2) (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
-  **IMRN -- Int. Math. Res. Not.**, 2021, Vol. 2021, Issue 4, pp. 3078--3096.
+  **Int. Math. Res. Not.**, 2021, Vol. 2021, Issue 4, pp. 3078--3096.
 4. On the classification of stably reflective hyperbolic $\mathbb{Z}[\sqrt{2}]$-lattices of rank $4$\
   **Doklady Math.**, 2019, Vol. 99:3, pp. 241--244.
 3. [Classification of (1,2)-reflective anisotropic hyperbolic lattices of rank 4](https://arxiv.org/abs/1903.08147v1)\
