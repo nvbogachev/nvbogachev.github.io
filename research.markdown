@@ -25,7 +25,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 # Published/accepted papers
 
 11. [Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$](https://arxiv.org/abs/2309.07691) (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
-  **Adv. Math.** 448 (2024), Paper No. 109705, 14 pp.
+  **Adv. Math.** Vol. 448 (2024), Paper No. 109705, 14 pp.
 10. [Geometric and arithmetic properties of Löbell polyhedra](https://arxiv.org/abs/2304.12590) (with [Sami Douba](https://www.ihes.fr/~/douba/))\
   **Alg. Geom. Topol.** (to appear)
 9. [Arithmetic trialitarian hyperbolic lattices are not LERF](https://arxiv.org/abs/2310.20611) (with [Leone Slavich](http://matematica.unipv.it/slavich/) and [Hongbin Sun](https://sites.math.rutgers.edu/~hs735/))\
