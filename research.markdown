@@ -25,11 +25,11 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 # Published/accepted papers
 
 11. [Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$](https://arxiv.org/abs/2309.07691) (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
-  **Adv. Math.** Vol. 448 (2024), Paper No. 109705, 14 pp.
+  **Adv. Math.**, 2024, Vol. 448, Paper No. 109705, 14 pp.
 10. [Geometric and arithmetic properties of Löbell polyhedra](https://arxiv.org/abs/2304.12590) (with [Sami Douba](https://www.ihes.fr/~/douba/))\
   **Alg. Geom. Topol.** (to appear).
 9. [Arithmetic trialitarian hyperbolic lattices are not LERF](https://arxiv.org/abs/2310.20611) (with [Leone Slavich](http://matematica.unipv.it/slavich/) and [Hongbin Sun](https://sites.math.rutgers.edu/~hs735/))\
-  **Int. Math. Res. Not.** 2024, Vol. 2024 (13), pp. 10081--10087.
+  **Int. Math. Res. Not.**, 2024, Vol. 2024 (13), pp. 10081--10087.
 8. [Kleinian sphere packings, reflection groups and arithmeticity](https://arxiv.org/abs/2203.01973) (with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   **Math. Comp.**, 2024, Vol. 93, no. 345, pp. 505--521.
 7. [On volumes of hyperbolic right-angled polyhedra](https://arxiv.org/abs/2111.08789) (with [Stepan Alexandrov](https://cyanprism.github.io/), Andrei Egorov & [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
