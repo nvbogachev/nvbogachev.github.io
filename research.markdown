@@ -29,7 +29,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 10. [Geometric and arithmetic properties of Löbell polyhedra](https://arxiv.org/abs/2304.12590) (with [Sami Douba](https://www.ihes.fr/~/douba/))\
   **Algebraic & Geometric Topology** (to appear).
 9. [Arithmetic trialitarian hyperbolic lattices are not LERF](https://arxiv.org/abs/2310.20611) (with [Leone Slavich](http://matematica.unipv.it/slavich/) and [Hongbin Sun](https://sites.math.rutgers.edu/~hs735/))\
-  **Int. Math. Res. Not.**, 2024, Vol. 2024 (13), pp. 10081--10087.
+  **International Mathematics Research Notices**, 2024, Vol. 2024 (13), pp. 10081--10087.
 8. [Kleinian sphere packings, reflection groups and arithmeticity](https://arxiv.org/abs/2203.01973) (with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   **Mathematics of Computation**, 2024, Vol. 93, no. 345, pp. 505--521.
 7. [On volumes of hyperbolic right-angled polyhedra](https://arxiv.org/abs/2111.08789) (with [Stepan Alexandrov](https://cyanprism.github.io/), Andrei Egorov & [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
