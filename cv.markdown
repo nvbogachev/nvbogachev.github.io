@@ -24,15 +24,23 @@ The complete CV can be found [here](/cv.pdf).
 - **Postgraduate study**, 2014-2018, Lomonosov Moscow State University.
 - **M.Sc.** cum laude, 2009-2014, Lomonosov Moscow State University.
 
-# Talks
 
-### Conferences & Workshops
+# Conferences & Workshops
 
 - Conference “Hyperbolic manifolds, their submanifolds and fundamental groups” (invited speaker), Rio de Janeiro, Brazil, Jan 2025
 - Conference “Groups Around 3-Manifolds” (invited speaker) Montreal, Canada, June 2023
 - All-Russian conference of international mathematical centers, Sirius, Sochi, Russia (Prize Winner; Invited sectional speaker), Aug 2021
 - The 7th Chinese-Russian Conference on Knot Theory and Related Topics (Plenary Speaker), Bejing — Moscow, Online via Zoom, Dec 2020
 - Workshop “Arithmetic reflection groups and crystallographic packings” (invited speaker), American Institute of Mathematics, San Jose, California, USA, Dec 2020
+- Conference “Automorphic Forms and Algebraic Geometry”, Steklov Mathematical Institute, St. Petersburg branch, St. Petersburg, Russia, May 2018
+
+# Selected seminar talks & colloquiums
+
+- Geometric Group Theory Seminar, McGill University, Montreal, Canada, Mar 2024
+- Math Department Colloquium, University of Toronto, Canada, Sep 2023
+- Algebra Seminar, University of Ottawa, Canada, Mar 2023
+- Hyperbolic Lunch seminar by Prof. Kasra Rafi, University of Toronto, Canada, Mar 2023
+
 
 # Grants
 - **NSERC Discovery Grant**, Principal Investigator, 2024-2026.
