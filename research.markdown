@@ -15,7 +15,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 
 4. Quasi-arithmetic hyperbolic Coxeter prisms (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
   [arXiv:2312.17193](https://arxiv.org/abs/2312.17193), [pdf](Quasi_arithmetic_Coxeter_prisms-2024.pdf)
-3. Arithmeticity of ideal hyperbolic right-angled polyhedra and hyperbolic link complements (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
+3. On quasi-arithmeticity of hyperbolic hybrids (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   [arXiv:2307.07000](https://arxiv.org/abs/2307.07000) 
 2. Thin hyperbolic reflection groups (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
