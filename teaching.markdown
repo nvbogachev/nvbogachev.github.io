@@ -78,7 +78,32 @@ mathjax: true
 
 - **Bachelor's Level at the MIPT:** Geometry in Computer Science at the MIPT (in Russian)
 
-- **Master's Level at the MIPT:** lectures and webinars on Linear Algebra Online (in English)
+- **Master's Level at the MIPT:** lectures and webinars on Linear Algebra (in English)
 
 - **Elective course/Learning Seminar for undegraduates at the MIPT:** Geometries & Transformation Groups at the MIPT (Russian/English)
+
+**Spring 2019**
+
+
+**Fall 2018**
+
+- **Bachelor's Level at the MIPT:** Geometry in Computer Science at the MIPT (in Russian)
+
+- **Elective course/Learning Seminar for undegraduates at the MIPT:** Geometries & Transformation Groups at the MIPT (Russian/English)
+
+
+**Spring 2018**
+
+**Fall 2017**
+
+- **Bachelor's Level at the MIPT:** Geometry in Computer Science at the MIPT (in Russian)
+
+**Spring 2017**
+
+- **Bachelor's Level at the MIPT:** Mathematical methods in mechanics (3 tutorials/seminars per week)
+
+**Fall 2016**
+
+- **Bachelor's Level at the MIPT:** Differential Geometry at the MIPT (2 hours of lectures and 6 hours of tutorials/seminars per week) 
+
 
