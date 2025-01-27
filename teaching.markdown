@@ -9,9 +9,23 @@ mathjax: true
 
 ### **University of Toronto (2023 -- present)**
 
+**Winter 2025**
+
+- MATC01: Groups and Symmetry
+- MATC15: Introduction to Number Theory
+
+**Fall 2024**
+
+- graduate topics course (shared with Fields Institute): Geometry, Arithmetic, and Dynamics of Discrete Groups
+
+**Winter 2024**
+
+- MATD34: Complex Variables II
+- MATA37: Calculus II for math majors
+
 **Fall 2023**
 
-- MATA43: Calculus for Management
+- MATA34: Calculus for Management
 - Reading course: the Galois Theory and Quadratic Forms
 
 **Summer 2023**
