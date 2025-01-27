@@ -49,9 +49,36 @@ mathjax: true
 
 - **Advanced Course at the MIPT:** Ergodic theory and dynamics of discrete groups (in Russian).
 
-- **Research Seminar at the MIPT:** Algebra, geometry, and topology at the MIPT (Russian/English)
+- **Research/Learning Seminar at the MIPT:** Algebra, geometry, and topology at the MIPT (Russian/English)
 
 
+**Spring 2021**
+
+- **Advanced Course at the IUM & HSE & MIPT:** Geometry, Arithmetic, and Dynamics of Discrete Groups
+
+- **Skoltech Geometry & Topology Learnin Seminar:** 5-lecture mini-course on Mostow rigidity
+
+**Fall 2020**
+
+- **Bachelor's Level at the MIPT:** Geometry in Computer Science at the MIPT (in Russian)
+
+- **Master's Level at the MIPT:** lectures and webinars on Linear Algebra Online (in English)
+
+- **Elective course at the IUM:** Reflection Groups (in Russian)
 
 
+**Spring 2020**
+
+- **Bachelor's Level at the MIPT:** elective course on Discrete Differential Geometry at the MIPT (in Russian)
+
+- **Research/Learning Seminar at the MIPT:** Groups, geometry, and topology at the MIPT (Russian/English)
+
+
+**Fall 2019**
+
+- **Bachelor's Level at the MIPT:** Geometry in Computer Science at the MIPT (in Russian)
+
+- **Master's Level at the MIPT:** lectures and webinars on Linear Algebra Online (in English)
+
+- **Elective course/Learning Seminar for undegraduates at the MIPT:** Geometries & Transformation Groups at the MIPT (Russian/English)
 
