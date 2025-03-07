@@ -94,6 +94,8 @@ mathjax: true
 
 **Spring 2018**
 
+- **Bachelor's Level at the MIPT:** Geometry in Computer Science II at the MIPT (in Russian)
+
 **Fall 2017**
 
 - **Bachelor's Level at the MIPT:** Geometry in Computer Science at the MIPT (in Russian)
