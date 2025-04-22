@@ -13,15 +13,15 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 
 # Preprints/submitted papers
  
-3. On quasi-arithmeticity of hyperbolic hybrids (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
+2. On quasi-arithmeticity of hyperbolic hybrids (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   [arXiv:2307.07000](https://arxiv.org/abs/2307.07000) 
-2. Thin hyperbolic reflection groups (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
-  [arXiv:2112.14642](https://arxiv.org/abs/2112.14642)
 1. Subspace stabilisers in hyperbolic lattices (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
   [arXiv:2105.06897](https://arxiv.org/abs/2105.06897) 
 
 # Published/accepted papers
 
+13. [Thin hyperbolic reflection groups](https://arxiv.org/abs/2112.14642) (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
+  **Bulletin Lon. Math. Soc.** (to appear).
 12. [Quasi-arithmetic hyperbolic Coxeter prisms](https://arxiv.org/abs/2312.17193) (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
   **Proc. Amer. Math. Soc.** (to appear).
 11. [Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$](https://arxiv.org/abs/2309.07691) (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
