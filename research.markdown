@@ -13,7 +13,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 
 # Preprints/submitted papers
  
-2. On quasi-arithmeticity of hyperbolic hybrids (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
+2. On quasi-arithmeticity of hyperbolic gluings (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   [arXiv:2307.07000](https://arxiv.org/abs/2307.07000) 
 1. Subspace stabilisers in hyperbolic lattices (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
   [arXiv:2105.06897](https://arxiv.org/abs/2105.06897) 
