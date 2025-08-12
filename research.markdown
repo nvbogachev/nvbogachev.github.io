@@ -14,9 +14,9 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 # Preprints/submitted papers
  
 2. On quasi-arithmeticity of hyperbolic gluings (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
-  [arXiv:2307.07000](https://arxiv.org/abs/2307.07000) 
+  [arXiv:2307.07000](https://arxiv.org/abs/2307.07000), 28 pp. 
 1. Subspace stabilisers in hyperbolic lattices (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
-  [arXiv:2105.06897](https://arxiv.org/abs/2105.06897) 
+  [arXiv:2105.06897](https://arxiv.org/abs/2105.06897), 75 pp, under revision in a journal. 
 
 # Published/accepted papers
 
@@ -27,7 +27,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
   **Algebraic & Geometric Topology**, 2025, Vol. 25, pp. 2281--2295.
 11. [Thin hyperbolic reflection groups](https://arxiv.org/abs/2112.14642) (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   **Bulletin Lon. Math. Soc.**, 2025, Vol. 57, Issue 8, pp. 2239--2570.
-10. [Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$](https://arxiv.org/abs/2309.07691) (with [Sami Douba](https://www.ihes.fr/~/douba/) and [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
+10. [Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$](https://arxiv.org/abs/2309.07691) (with [Sami Douba](https://www.ihes.fr/~/douba/) & [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
   **Advances in Mathematics**, 2024, Vol. 448, Paper No. 109705, 14 pp.
 9. [Arithmetic trialitarian hyperbolic lattices are not LERF](https://arxiv.org/abs/2310.20611) (with [Leone Slavich](http://matematica.unipv.it/slavich/) and [Hongbin Sun](https://sites.math.rutgers.edu/~hs735/))\
   **Int. Math. Res. Not.**, 2024, Vol. 2024 (13), pp. 10081--10087.
