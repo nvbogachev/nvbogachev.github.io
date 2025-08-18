@@ -38,7 +38,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 6. [From geometry to arithmetic of compact hyperbolic Coxeter polytopes](https://arxiv.org/abs/2003.11944)\
   **Transformation Groups**, 2023, Vol. 28, no. 1, pp. 77--105.
 5. [On faces of quasi-arithmetic Coxeter polytopes](https://arxiv.org/abs/2002.11445v2) (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
-  **Int. Math. Res. Not.**, 2021, Vol. 2021, Issue 4, pp. 3078--3096.
+  **International Mathematics Research Notices**, 2021, Vol. 2021, Issue 4, pp. 3078--3096.
 4. On the classification of stably reflective hyperbolic $\mathbb{Z}[\sqrt{2}]$-lattices of rank $4$\
   **Doklady Math.**, 2019, Vol. 99:3, pp. 241--244.
 3. [Classification of (1,2)-reflective anisotropic hyperbolic lattices of rank 4](https://arxiv.org/abs/1903.08147v1)\
