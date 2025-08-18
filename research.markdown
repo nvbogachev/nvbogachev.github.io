@@ -44,7 +44,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 3. [Classification of (1,2)-reflective anisotropic hyperbolic lattices of rank 4](https://arxiv.org/abs/1903.08147v1)\
   **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1--19.
 2. Vinberg's Algorithm for Hyperbolic Lattices (with [Alexander Perepechko](http://a.perep.ru/))\
-  **Math. Notes**, 2018, Vol. 103:5, pp. 836--840.
+  **Mathematical Notes**, 2018, Vol. 103:5, pp. 836--840.
 1. Reflective anisotropic hyperbolic lattices of rank 4\
   **Russian Mathematical Surveys**, 2017, Vol. 1 (433), pp. 179--181
   
