@@ -40,9 +40,9 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 5. [On faces of quasi-arithmetic Coxeter polytopes](https://arxiv.org/abs/2002.11445v2) (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   **International Mathematics Research Notices**, 2021, Vol. 2021, Issue 4, pp. 3078--3096.
 4. On the classification of stably reflective hyperbolic $\mathbb{Z}[\sqrt{2}]$-lattices of rank $4$\
-  **Doklady Math.**, 2019, Vol. 99:3, pp. 241--244.
+  **Doklady Mathematics**, 2019, Vol. 99:3, pp. 241--244.
 3. [Classification of (1,2)-reflective anisotropic hyperbolic lattices of rank 4](https://arxiv.org/abs/1903.08147v1)\
-  **Izvestiya Math.**, 2019, Vol. 83:1, pp. 1--19.
+  **Izvestiya Mathematics**, 2019, Vol. 83:1, pp. 1--19.
 2. Vinberg's Algorithm for Hyperbolic Lattices (with [Alexander Perepechko](http://a.perep.ru/))\
   **Mathematical Notes**, 2018, Vol. 103:5, pp. 836--840.
 1. Reflective anisotropic hyperbolic lattices of rank 4\
