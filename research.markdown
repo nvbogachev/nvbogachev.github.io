@@ -25,7 +25,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 13. [Quasi-arithmetic hyperbolic Coxeter prisms](https://arxiv.org/abs/2312.17193) (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
   **Proceedings of the American Mathematical Society**, 2025, Vol. 153, Number 11, pp. 4569--4584.
 12. [Geometric and arithmetic properties of Löbell polyhedra](https://arxiv.org/abs/2304.12590) (with [Sami Douba](https://www.math.uni-bonn.de/people/douba/))\
-  **Algebraic & Geometric Topology**, 2025, Vol. 25, pp. 2281--2295.
+  **Algebraic & Geometric Topology**, 2025, Vol. 25, Issue 4, pp. 2281--2295.
 11. [Thin hyperbolic reflection groups](https://arxiv.org/abs/2112.14642) (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   **Bulletin of the London Mathematical Society**, 2025, Vol. 57, Issue 8, pp. 2498--2508.
 10. [Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$](https://arxiv.org/abs/2309.07691) (with [Sami Douba](https://www.math.uni-bonn.de/people/douba/) & [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
