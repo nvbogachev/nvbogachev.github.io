@@ -10,7 +10,7 @@ I am a mathematician with research interests in the geometry, arithmetic and dyn
 
 In 2019, I got my PhD under the supervision of [Professor **Ernest B. Vinberg**](https://en.wikipedia.org/wiki/Ernest_Vinberg) (see also [here](http://www.ams.org/distribution/mmj/vol8-4-2008/vinberg-birthday.html)). Here you can find my CV, papers, information about my projects and the materials of my teaching courses.
 
-I am one of the organizers of the [Vinberg Distinguished Lecture Series](https://vinberg.combgeo.org/). <br><br><br><br><br><br>
+I am one of the organizers of the [Vinberg Distinguished Lecture Series](https://amathr.org/vinberg/). <br><br><br><br><br><br>
 
 
 **Awards**
