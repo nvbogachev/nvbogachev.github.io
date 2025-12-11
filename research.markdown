@@ -12,7 +12,10 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 
 
 # Preprints/submitted papers
- 
+
+
+1. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
+  [arXiv:2512.09900](https://arxiv.org/abs/2512.09900), 23 pp., preprint (comments are very welcome!). 
 2. On quasi-arithmeticity of hyperbolic gluings (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   [arXiv:2307.07000](https://arxiv.org/abs/2307.07000), 28 pp, submitted. 
 
