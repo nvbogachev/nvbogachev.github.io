@@ -52,7 +52,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
 1. Reflective anisotropic hyperbolic lattices of rank 4\
   **Russian Mathematical Surveys**, 2017, Vol. 1 (433), pp. 179--181
   
-# Conferences
+# AI & ML + math & physics
 
 1. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
   (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
