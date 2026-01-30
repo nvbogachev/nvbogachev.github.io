@@ -8,10 +8,18 @@ mathjax: true
 
 
 # Research Interests
-Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and quasi-arithmetic lattices, hyperbolic geometry and topology, hyperbolic manifolds and orbifolds, hyperbolic reflection groups, Coxeter polytopes, arithmetic hyperbolic reflection groups, and reflective Lorentzian lattices.
+Discrete subgroups of Lie groups, algebraic and geometric topology, group theory, dynamics, number theory, algebraic geometry, AI and ML.
+
+# AI & ML + math & physics
+
+1. CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks, 2026 (NEW: submitted),\
+  A. Chervov, F. Levkovich-Maslyuk, A. Smolensky et al.
+2. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
+  (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
+  
 
 
-# Preprints/submitted papers
+# Pure math: preprints/submitted papers 
 
 
 1. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
@@ -20,7 +28,7 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
   [arXiv:2307.07000](https://arxiv.org/abs/2307.07000), 28 pp, submitted. 
 
 
-# Published/accepted papers
+# Pure math: published/accepted papers
 
 
 14. [Subspace stabilisers in hyperbolic lattices](https://arxiv.org/abs/2105.06897) (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
@@ -51,11 +59,6 @@ Discrete subgroups of Lie groups, geometry of discrete groups, arithmetic and qu
   **Mathematical Notes**, 2018, Vol. 103:5, pp. 836--840.
 1. Reflective anisotropic hyperbolic lattices of rank 4\
   **Russian Mathematical Surveys**, 2017, Vol. 1 (433), pp. 179--181
-  
-# AI & ML + math & physics
-
-1. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
-  (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
   
 # Tools & Algorithms
   
