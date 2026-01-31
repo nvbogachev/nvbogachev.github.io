@@ -8,7 +8,10 @@ mathjax: true
 
 
 # Research Interests
-Discrete subgroups of Lie groups, algebraic and geometric topology, group theory, dynamics, number theory, algebraic geometry, AI and ML.
+
+AI & ML + math & physics: Discrete analogs of holographic string dualities for AI tasks, Cayley graphs, AdS/CFT correspondence, graph based NNS.
+
+Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, group theory, dynamics, number theory, algebraic geometry.
 
 # AI & ML + math & physics
 
