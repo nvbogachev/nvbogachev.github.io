@@ -35,7 +35,7 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 
 
 14. [Subspace stabilisers in hyperbolic lattices](https://arxiv.org/abs/2105.06897) (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
-  **Journal of the Association for Mathematical Research**, 2026, Vol 4, Issue 1, pp. 111-182. 
+  **Journal of the Association for Mathematical Research**, 2026, Vol. 4, Issue 1, pp. 111--182. 
 13. [Quasi-arithmetic hyperbolic Coxeter prisms](https://arxiv.org/abs/2312.17193) (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
   **Proceedings of the American Mathematical Society**, 2025, Vol. 153, Number 11, pp. 4569--4584.
 12. [Geometric and arithmetic properties of Löbell polyhedra](https://arxiv.org/abs/2304.12590) (with [Sami Douba](https://www.math.uni-bonn.de/people/douba/))\
