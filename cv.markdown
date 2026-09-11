@@ -22,7 +22,7 @@ The complete CV can be found [here](/cv.pdf).
 # Education
 
 - **PhD** in Mathematics, 2019, Higher School of Economics, Scientific advisor: Prof. Ernest B. Vinberg. Thesis: ''Reflective hyperbolic lattices''.
-- **Postgraduate study**, 2014-2018, Lomonosov Moscow State University.
+- **Graduate (PhD) program**, 2014-2018, Lomonosov Moscow State University.
 - **M.Sc.** cum laude, 2009-2014, Lomonosov Moscow State University.
 
 
