@@ -15,10 +15,8 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 
 # Math of AI & ML, AI safety and alignment
 
-1. 
-
+1. When transformers fail at free reduction (in preparation)
 2. Geometric invariants of tree tensor networks (in preparation)
-
 3. CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks, 2026 (NEW: submitted),\
   A. Chervov, F. Levkovich-Maslyuk, A. Smolensky et al., [arXiv:2603.22195](https://arxiv.org/abs/2603.22195)
 4. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
