@@ -13,7 +13,7 @@ Mathematics of deep learning and AI safety: Singular learning theory, training d
 
 Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, group theory, dynamics, number theory, algebraic geometry.
 
-# Math of AI & ML, AI safety and alignment
+# Math of deep learning, AI safety and alignment
 
 1. When transformers fail at free reduction (in preparation)
 2. Geometric invariants of tree tensor networks (in preparation)
