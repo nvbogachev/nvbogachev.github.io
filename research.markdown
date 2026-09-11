@@ -9,15 +9,19 @@ mathjax: true
 
 # Research Interests
 
-AI & ML + math & physics: Discrete analogs of holographic string dualities for AI tasks, Cayley graphs, AdS/CFT correspondence, graph based NNS.
+Mathematics of deep learning and AI safety: Singular learning theory, training dynamics, mechanistic interpretability, discrete analogs of holographic string dualities for AI tasks, Cayley graphs, AdS/CFT correspondence, graph based NNS.
 
 Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, group theory, dynamics, number theory, algebraic geometry.
 
-# AI & ML + math & physics
+# Math of AI & ML, AI safety and alignment
 
-1. CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks, 2026 (NEW: submitted),\
+1. 
+
+2. Geometric invariants of tree tensor networks (in preparation)
+
+3. CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks, 2026 (NEW: submitted),\
   A. Chervov, F. Levkovich-Maslyuk, A. Smolensky et al., [arXiv:2603.22195](https://arxiv.org/abs/2603.22195)
-2. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
+4. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
   (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
   
 
@@ -25,9 +29,13 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 # Pure math: preprints/submitted papers 
 
 
-1. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
+1. Proof of the positive trace gap conjecture (in preparation).
+
+2. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups (in preparation).
+
+3. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
   [arXiv:2512.09900](https://arxiv.org/abs/2512.09900), 23 pp., preprint (comments are very welcome!). 
-2. On quasi-arithmeticity of hyperbolic gluings (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
+4. On quasi-arithmeticity of hyperbolic gluings (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   [arXiv:2307.07000](https://arxiv.org/abs/2307.07000), 28 pp, submitted. 
 
 
