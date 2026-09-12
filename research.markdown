@@ -26,14 +26,12 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 
 # Pure math: preprints/submitted papers 
 
-
-1. Proof of the positive trace gap conjecture (in preparation).
-
-2. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups (in preparation).
-
-3. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
+1. Homology torsion of some reflective hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
+2. Proof of the positive trace gap conjecture (in preparation).
+3. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups (in preparation).
+4. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
   [arXiv:2512.09900](https://arxiv.org/abs/2512.09900), 23 pp., preprint (comments are very welcome!). 
-4. On quasi-arithmeticity of hyperbolic gluings (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
+5. On quasi-arithmeticity of hyperbolic gluings (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   [arXiv:2307.07000](https://arxiv.org/abs/2307.07000), 28 pp, submitted. 
 
 
