@@ -5,6 +5,62 @@ permalink: /research/
 last_modified_at: 13-09-23
 mathjax: true
 ---
+<style>
+/* Только эта страница: более узкая текстовая колонка. */
+.page-content > .wrapper {
+  max-width: 760px;
+}
+
+/* На небольшом экране картинки стоят между блоками текста. */
+.margin-art {
+  width: 240px;
+  max-width: 100%;
+  margin: 20px 0 28px auto;
+}
+
+.margin-art--left {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.margin-art a {
+  display: block;
+}
+
+.margin-art img {
+  display: block;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  padding: 6px;
+  background: white;
+  border-radius: 4px;
+}
+
+/* На широком экране переносим картинки на внешние поля. */
+@media (min-width: 1360px) {
+  .margin-art {
+    position: relative;
+    width: 100%;
+    height: 0;
+    margin: 0;
+  }
+
+  .margin-art a {
+    position: absolute;
+    top: 8px;
+    width: 240px;
+  }
+
+  .margin-art--left a {
+    right: calc(100% + 28px);
+  }
+
+  .margin-art--right a {
+    left: calc(100% + 28px);
+  }
+}
+</style>
 
 
 # Research Interests
@@ -12,6 +68,15 @@ mathjax: true
 Mathematics of deep learning and AI safety: Singular learning theory, training dynamics, mechanistic interpretability, discrete analogs of holographic string dualities for AI tasks, Cayley graphs, AdS/CFT correspondence, graph based NNS.
 
 Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, group theory, dynamics, number theory, algebraic geometry.
+
+<div class="margin-art margin-art--right">
+  <a href="{{ '/assets/research/hyperbolic-random-walk.svg' | relative_url }}">
+    <img
+      src="{{ '/assets/research/hyperbolic-random-walk.svg' | relative_url }}"
+      alt="A random-walk path on a hyperbolic tiling"
+      loading="lazy">
+  </a>
+</div>
 
 # Math of deep learning, AI safety and alignment
 
