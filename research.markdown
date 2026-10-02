@@ -32,13 +32,13 @@ mathjax: true
   width: 100%;
   height: auto;
   box-sizing: border-box;
-  padding: 6px;
+  padding: 2px;
   background: white;
   border-radius: 4px;
 }
 
-/* На широком экране переносим картинки на внешние поля. */
-@media (min-width: 1400px) {
+/* Картинки на полях; размер зависит от свободного места. */
+@media (min-width: 1280px) {
   .margin-art {
     position: relative;
     width: 100%;
@@ -49,7 +49,7 @@ mathjax: true
   .margin-art a {
     position: absolute;
     top: 8px;
-    width: 260px;
+    width: min(300px, calc(50vw - 440px));
   }
 
   .margin-art--left a {
