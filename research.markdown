@@ -104,6 +104,14 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 4. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
   (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
   
+<div class="margin-art margin-art--left">
+  <a href="{{ '/assets/research/hearing-quaternions.png' | relative_url }}">
+    <img
+      src="{{ '/assets/research/hearing-quaternions.png' | relative_url }}"
+      alt="Hearing quaternions"
+      loading="lazy">
+  </a>
+</div>
 
 
 # Pure math: preprints/submitted papers 
@@ -113,15 +121,6 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
     <img
       src="{{ '/assets/research/A6.png' | relative_url }}"
       alt="A circle packing represented by hemispheres"
-      loading="lazy">
-  </a>
-</div>
-
-<div class="margin-art margin-art--left">
-  <a href="{{ '/assets/research/hearing-quaternions.png' | relative_url }}">
-    <img
-      src="{{ '/assets/research/hearing-quaternions.png' | relative_url }}"
-      alt="Hearing quaternions"
       loading="lazy">
   </a>
 </div>
