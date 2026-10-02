@@ -8,12 +8,12 @@ mathjax: true
 <style>
 /* Только эта страница: более узкая текстовая колонка. */
 .page-content > .wrapper {
-  max-width: 760px;
+  max-width: 800px;
 }
 
 /* На небольшом экране картинки стоят между блоками текста. */
 .margin-art {
-  width: 240px;
+  width: 260px;
   max-width: 100%;
   margin: 20px 0 28px auto;
 }
@@ -38,7 +38,7 @@ mathjax: true
 }
 
 /* На широком экране переносим картинки на внешние поля. */
-@media (min-width: 1360px) {
+@media (min-width: 1400px) {
   .margin-art {
     position: relative;
     width: 100%;
@@ -49,16 +49,22 @@ mathjax: true
   .margin-art a {
     position: absolute;
     top: 8px;
-    width: 240px;
+    width: 260px;
   }
 
   .margin-art--left a {
-    right: calc(100% + 28px);
+    right: calc(100% + 20px);
   }
 
   .margin-art--right a {
-    left: calc(100% + 28px);
+    left: calc(100% + 20px);
   }
+}
+
+/* Размер основного текста только на странице Research. */
+.page-content .post-content {
+  font-size: 15.5px;
+  line-height: 1.5;
 }
 </style>
 
