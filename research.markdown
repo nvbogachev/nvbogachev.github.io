@@ -88,6 +88,15 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 
 # Math of deep learning, AI safety and alignment
 
+<div class="margin-art margin-art--left">
+  <a href="{{ '/assets/research/mcg.png' | relative_url }}">
+    <img
+      src="{{ '/assets/research/mcg.png' | relative_url }}"
+      alt="A circle packing represented by hemispheres"
+      loading="lazy">
+  </a>
+</div>
+
 1. When transformers fail at free reduction (in preparation)
 2. Geometric invariants of tree tensor networks (in preparation)
 3. CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks, 2026 (NEW: submitted),\
@@ -98,6 +107,15 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 
 
 # Pure math: preprints/submitted papers 
+
+<div class="margin-art margin-art--right">
+  <a href="{{ '/assets/research/A6.png' | relative_url }}">
+    <img
+      src="{{ '/assets/research/A6.png' | relative_url }}"
+      alt="A circle packing represented by hemispheres"
+      loading="lazy">
+  </a>
+</div>
 
 1. Homology torsion of some reflective hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
 2. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups (in preparation).
