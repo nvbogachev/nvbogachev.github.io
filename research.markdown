@@ -69,11 +69,20 @@ mathjax: true
   <a href="{{ '/assets/research/Fig1b.png' | relative_url }}">
     <img
       src="{{ '/assets/research/Fig1b.png' | relative_url }}"
-      alt="Kleinbahn sphere packing">
+      alt="Kleinian sphere packing">
   </a>
 </div>
 
 Mathematics of deep learning and AI safety: Singular learning theory, training dynamics, mechanistic interpretability, discrete analogs of holographic string dualities for AI tasks, Cayley graphs, AdS/CFT correspondence, graph based NNS.
+
+<div class="margin-art margin-art--right">
+  <a href="{{ '/assets/research/ttn-loss.png' | relative_url }}">
+    <img
+      src="{{ '/assets/research/ttn-loss.png' | relative_url }}"
+      alt="Loss landscape and tree tensor networks"
+      loading="lazy">
+  </a>
+</div>
 
 Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, group theory, dynamics, number theory, algebraic geometry.
 
