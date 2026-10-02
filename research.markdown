@@ -117,6 +117,15 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
   </a>
 </div>
 
+<div class="margin-art margin-art--left">
+  <a href="{{ '/assets/research/hearing-quaternions.png' | relative_url }}">
+    <img
+      src="{{ '/assets/research/hearing-quaternions.png' | relative_url }}"
+      alt="Hearing quaternions"
+      loading="lazy">
+  </a>
+</div>
+
 1. Homology torsion of some reflective hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
 2. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups (in preparation).
 3. Singularity of harmonic measures for hyperbolic lattices\
