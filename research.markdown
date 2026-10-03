@@ -93,16 +93,15 @@ Mathematics of deep learning and AI safety: Singular learning theory, training d
 
 Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, group theory, dynamics, number theory, algebraic geometry.
 
-<div class="margin-art margin-art--right">
-  <a href="{{ '/assets/research/hyperbolic-random-walk.svg' | relative_url }}">
-    <img
-      src="{{ '/assets/research/hyperbolic-random-walk.svg' | relative_url }}"
-      alt="A random-walk path on a hyperbolic tiling"
-      loading="lazy">
-  </a>
-</div>
-
 # Math of deep learning, AI safety and alignment
+
+
+1. When transformers fail at free reduction (in preparation)
+2. Geometric invariants of tree tensor networks (in preparation)
+3. CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks, 2026 (NEW: submitted),\
+  A. Chervov, F. Levkovich-Maslyuk, A. Smolensky et al., [arXiv:2603.22195](https://arxiv.org/abs/2603.22195)
+4. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
+  (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
 
 <div class="margin-art margin-art--left">
   <a href="{{ '/assets/research/mcg.png' | relative_url }}">
@@ -113,30 +112,13 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
   </a>
 </div>
 
-1. When transformers fail at free reduction (in preparation)
-2. Geometric invariants of tree tensor networks (in preparation)
-3. CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks, 2026 (NEW: submitted),\
-  A. Chervov, F. Levkovich-Maslyuk, A. Smolensky et al., [arXiv:2603.22195](https://arxiv.org/abs/2603.22195)
-4. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
-  (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
-  
-<div class="margin-art margin-art--left">
-  <a href="{{ '/assets/research/hearing-quaternions.png' | relative_url }}">
-    <img
-      src="{{ '/assets/research/hearing-quaternions.png' | relative_url }}"
-      alt="Hearing quaternions"
-      loading="lazy">
-  </a>
-</div>
-
-
 # Pure math: preprints/submitted papers 
 
 <div class="margin-art margin-art--right">
-  <a href="{{ '/assets/research/A6.png' | relative_url }}">
+  <a href="{{ '/assets/research/hyperbolic-random-walk.svg' | relative_url }}">
     <img
-      src="{{ '/assets/research/A6.png' | relative_url }}"
-      alt="A circle packing represented by hemispheres"
+      src="{{ '/assets/research/hyperbolic-random-walk.svg' | relative_url }}"
+      alt="A random-walk path on a hyperbolic tiling"
       loading="lazy">
   </a>
 </div>
@@ -155,8 +137,25 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 7. On quasi-arithmeticity of hyperbolic gluings (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   [arXiv:2307.07000](https://arxiv.org/abs/2307.07000), 28 pp, submitted. 
 
+<div class="margin-art margin-art--left">
+  <a href="{{ '/assets/research/hearing-quaternions.png' | relative_url }}">
+    <img
+      src="{{ '/assets/research/hearing-quaternions.png' | relative_url }}"
+      alt="Hearing quaternions"
+      loading="lazy">
+  </a>
+</div>
 
 # Pure math: published/accepted papers
+
+<div class="margin-art margin-art--right">
+  <a href="{{ '/assets/research/A6.png' | relative_url }}">
+    <img
+      src="{{ '/assets/research/A6.png' | relative_url }}"
+      alt="A circle packing represented by hemispheres"
+      loading="lazy">
+  </a>
+</div>
 
 
 14. [Subspace stabilisers in hyperbolic lattices](https://arxiv.org/abs/2105.06897) (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
