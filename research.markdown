@@ -103,6 +103,15 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 4. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
   (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
 
+<div class="margin-art margin-art--right">
+  <a href="{{ '/assets/research/hyperbolic-random-walk.svg' | relative_url }}">
+    <img
+      src="{{ '/assets/research/hyperbolic-random-walk.svg' | relative_url }}"
+      alt="A random-walk path on a hyperbolic tiling"
+      loading="lazy">
+  </a>
+</div>
+
 <div class="margin-art margin-art--left">
   <a href="{{ '/assets/research/mcg.png' | relative_url }}">
     <img
@@ -114,14 +123,7 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 
 # Pure math: preprints/submitted papers 
 
-<div class="margin-art margin-art--right">
-  <a href="{{ '/assets/research/hyperbolic-random-walk.svg' | relative_url }}">
-    <img
-      src="{{ '/assets/research/hyperbolic-random-walk.svg' | relative_url }}"
-      alt="A random-walk path on a hyperbolic tiling"
-      loading="lazy">
-  </a>
-</div>
+
 
 
 1. Homology torsion of some reflective hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
