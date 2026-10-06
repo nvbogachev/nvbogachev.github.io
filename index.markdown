@@ -73,4 +73,3 @@ I am one of the organizers of the [Vinberg Distinguished Lecture Series](https:/
   </a>
 </div>
 
-
