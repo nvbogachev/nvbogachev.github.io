@@ -65,9 +65,9 @@ I am one of the organizers of the [Vinberg Distinguished Lecture Series](https:/
   </div>
 
   <a class="home-awards-art"
-     href="{{ '/assets/research/gaddg.svg' | relative_url }}">
+     href="{{ '/assets/gaddg.svg' | relative_url }}">
     <img
-      src="{{ '/assets/research/gaddg.svg' | relative_url }}"
+      src="{{ '/assets/gaddg.svg' | relative_url }}"
       alt="Geometry, arithmetic and dynamics of discrete groups"
       loading="lazy">
   </a>
