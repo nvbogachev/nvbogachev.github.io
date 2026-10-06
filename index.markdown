@@ -8,16 +8,17 @@ last_modified_at: 2023-09-14
 
 <style>
 .home-awards {
-  clear: both;
+  clear: none;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 400px;
-  align-items: center;
-  gap: 32px;
-  margin: 24px 0 32px;
+  grid-template-columns: minmax(0, 1fr) 460px;
+  align-items: start;
+  gap: 24px;
+  margin: 12px 0 20px;
 }
 
 .home-awards-art {
   display: block;
+  min-width: 0;
 }
 
 .home-awards-art img {
@@ -28,16 +29,16 @@ last_modified_at: 2023-09-14
   border-radius: 4px;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 1050px) {
   .home-awards {
     grid-template-columns: minmax(0, 1fr);
-    gap: 20px;
+    gap: 16px;
   }
 
   .home-awards-art {
-    width: 400px;
+    width: 460px;
     max-width: 100%;
-    justify-self: center;
+    justify-self: end;
   }
 }
 </style>
@@ -46,7 +47,7 @@ I am a mathematician broadly interested in various fields of pure mathematics (a
 
 In 2019, I got my PhD under the supervision of [Professor **Ernest B. Vinberg**](https://en.wikipedia.org/wiki/Ernest_Vinberg) (see also [here](http://www.ams.org/distribution/mmj/vol8-4-2008/vinberg-birthday.html)). Here you can find my CV, papers, information about my projects and the materials of my teaching courses.
 
-I am one of the organizers of the [Vinberg Distinguished Lecture Series](https://amathr.org/vinberg/). <br><br>
+I am one of the organizers of the [Vinberg Distinguished Lecture Series](https://amathr.org/vinberg/). 
 
 <div class="home-awards">
   <div>
