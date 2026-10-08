@@ -48,7 +48,7 @@ last_modified_at: 2023-09-14
 
 .home-flagcounter {
   display: block;
-  width: 380px;
+  width: 450px;
   max-width: 100%;
   margin-top: 18px;
 }
