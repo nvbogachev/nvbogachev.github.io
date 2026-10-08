@@ -88,17 +88,17 @@ mathjax: true
   </a>
 </div>
 
-Mathematics of deep learning and AI safety: Singular learning theory, training dynamics, mechanistic interpretability, discrete analogs of holographic string dualities for AI tasks, Cayley graphs, AdS/CFT correspondence, graph based NNS.
+Mathematics of deep learning and AI safety: Singular learning theory, training dynamics, mechanistic interpretability, discrete analogs of holographic string dualities for AI tasks, graph based NNS.
 
 
-Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, group theory, dynamics, number theory, algebraic geometry.
+Pure math: algebraic and geometric topology, group theory, dynamics, number theory, algebraic geometry.
 
 # Math of deep learning, AI safety and alignment
 
 
 1. When transformers fail at free reduction (in preparation)
 2. Geometric invariants of tree tensor networks (in preparation)
-3. CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks, 2026 (NEW: submitted),\
+3. CayleyPy-4: AI-Holography. Towards analogs of holographic string dualities for AI tasks, 2026 \
   A. Chervov, F. Levkovich-Maslyuk, A. Smolensky et al., [arXiv:2603.22195](https://arxiv.org/abs/2603.22195)
 4. Graph-based Nearest Neighbor Search in Hyperbolic Spaces, **ICLR 2022**\
   (with Liudmila Ostroumova-Prokhorenkova, Dima Baranchuk, Yura Demidovich, and [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
@@ -130,7 +130,7 @@ Pure math: Discrete subgroups of Lie groups, algebraic and geometric topology, g
 2. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups (in preparation).
 3. Singularity of harmonic measures for hyperbolic lattices\
   [arXiv:2609.40357](https://arxiv.org/abs/2609.40357), 12 pp., preprint (comments are very welcome!).
-4. Arithmetic trace rigidity (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))
+4. Arithmetic trace rigidity (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   We had an OpenAI model propose solutions to both Sarnak’s bounded clustering and Schmutz’s linear growth conjectures in a guided Codex session, see the [github repo](https://github.com/sashakolpakov/arithmetic-trace-rigidity).
 5. Proof of the positive trace gap conjecture\
   [arXiv:2609.29033](https://arxiv.org/abs/2609.29033), 20 pp., preprint (comments are very welcome!).
