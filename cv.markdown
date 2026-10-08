@@ -8,11 +8,11 @@ last_modified_at:
 The complete CV can be found [here](/cv.pdf).
 
 # Current position
-- **Mendelzon-CLTA Assistant Professor**, University of Toronto Scarborough, Canada, Aug 2023 -- Aug 2026
+- **Mendelzon-CLTA Assistant Professor**, University of Toronto Scarborough, Canada, Aug 2023 -- Aug 2027
 
 # Previous Employment
 
-- **Iliad Summer 2026 Fellowship in AI safety and alignment**, London, UK, June -- Aug 2027
+- **Iliad Summer 2026 Fellowship in AI safety and alignment**, London, UK, June -- Aug 2026
 - **Postdoctoral Fellow**, University of Toronto, Canada, Feb 2023 -- Aug 2023
 - **Visiting Scholar**, Weizmann Institute of Science, Israel, Dec 2022 -- Feb 2023
 - **Visiting Scholar**, IHES, France, Oct 2022 -- Dec 2022
