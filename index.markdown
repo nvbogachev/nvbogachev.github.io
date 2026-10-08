@@ -41,6 +41,23 @@ last_modified_at: 2023-09-14
     justify-self: end;
   }
 }
+
+.home-awards > div {
+  min-width: 0;
+}
+
+.home-flagcounter {
+  display: block;
+  width: 380px;
+  max-width: 100%;
+  margin-top: 18px;
+}
+
+.home-flagcounter img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 </style>
 
 I am a mathematician broadly interested in various fields of pure mathematics (algebraic and geometric topology, group theory, dynamics, number theory, and algebraic geometry), mathematics of deep learning, and AI safety and alignment (singular learning theory, training dynamics, and mechanistic interpretability). Starting Fall 2023, I am a Mendelzon-CLTA Assistant Professor in Mathematics at the [Department of Computer and Mathematical Sciences of the University of Toronto Scarborough](https://www.utsc.utoronto.ca/cms/). Previously I was a Postdoctoral Fellow at the University of Toronto, a permanent Research Scientist at the Institute for Information Transmission Problems (Moscow), Assistant Professor at the Moscow Institute of Physics and Technology, and a Postdoctoral Fellow at Skoltech (also Moscow).
@@ -63,6 +80,12 @@ I am one of the organizers of the [Vinberg Distinguished Lecture Series](https:/
         2017, 2018: The Simons Foundation Prize for PhD students.
       </li>
     </ul>
+  <a class="home-flagcounter"
+   href="https://info.flagcounter.com/GXmt">
+  <img
+    src="https://s11.flagcounter.com/count2/GXmt/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_80/viewers_0/labels_1/pageviews_1/flags_0/percent_0/"
+    alt="Flag Counter">
+  </a>
   </div>
 
   <a class="home-awards-art"
