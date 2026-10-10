@@ -30,8 +30,8 @@ The complete CV can be found [here](/cv.pdf).
 
 - ILIAD 2026 Conference AI Safety and alignment, Berkeley, USA, Aug 2026
 - Workshop "Hyperbolic manifolds in dimensions 4 (and more)" (invited speaker), CRM Montreal, Canada, Sep 2025
-- Conference “Hyperbolic manifolds, their submanifolds and fundamental groups” (invited speaker), Rio de Janeiro, Brazil, Jan 2025
-- Conference “Groups Around 3-Manifolds” (invited speaker) Montreal, Canada, June 2023
+- Conference “Hyperbolic manifolds, their submanifolds and fundamental groups” (invited speaker), IMPA, Rio de Janeiro, Brazil, Jan 2025
+- Conference “Groups Around 3-Manifolds” (invited speaker), CRM Montreal, Canada, June 2023
 - All-Russian conference of international mathematical centers, Sirius, Sochi, Russia (Prize Winner; Invited sectional speaker), Aug 2021
 - The 7th Chinese-Russian Conference on Knot Theory and Related Topics (Plenary Speaker), Bejing — Moscow, Online via Zoom, Dec 2020
 - Workshop “Arithmetic reflection groups and crystallographic packings” (invited speaker), American Institute of Mathematics, San Jose, California, USA, Dec 2020
