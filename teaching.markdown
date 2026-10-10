@@ -9,6 +9,13 @@ mathjax: true
 
 ### **University of Toronto (2023 -- present)**
 
+**Winter 2026**
+
+- MATC01: Groups and Symmetry
+- MATC34: Complex Variables I
+- MATD34: Complex Variables II
+
+
 **Winter 2025**
 
 - MATC01: Groups and Symmetry
