@@ -5,7 +5,7 @@ permalink: /cv/
 last_modified_at: 
 ---
 
-The complete CV can be found [here](/cv.pdf).
+
 
 # Current position
 - **Mendelzon-CLTA Assistant Professor**, University of Toronto Scarborough, Canada, Aug 2023 -- Aug 2027
