@@ -125,7 +125,7 @@ Pure math: algebraic and geometric topology, group theory, dynamics, number theo
 
 
 
-
+0. On mapping class groups (with Ilyas Bayramov; in preparation).
 1. Homology torsion of some reflective hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
 2. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups (in preparation).
 3. Singularity of harmonic measures for hyperbolic lattices\
@@ -136,8 +136,7 @@ Pure math: algebraic and geometric topology, group theory, dynamics, number theo
   [arXiv:2609.29033](https://arxiv.org/abs/2609.29033), 20 pp., preprint (comments are very welcome!).
 6. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
   [arXiv:2512.09900](https://arxiv.org/abs/2512.09900), 23 pp., preprint (comments are very welcome!). 
-7. On quasi-arithmeticity of hyperbolic gluings (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
-  [arXiv:2307.07000](https://arxiv.org/abs/2307.07000), 28 pp, submitted. 
+
 
 <div class="margin-art margin-art--left">
   <a href="{{ '/assets/research/hearing-quaternions.png' | relative_url }}">
@@ -159,7 +158,8 @@ Pure math: algebraic and geometric topology, group theory, dynamics, number theo
   </a>
 </div>
 
-
+15. [On quasi-arithmeticity of hyperbolic gluings](https://arxiv.org/abs/2307.07000) (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
+  **Transactions of the American Mathematical Society**, to appear. 
 14. [Subspace stabilisers in hyperbolic lattices](https://arxiv.org/abs/2105.06897) (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
   **Journal of the Association for Mathematical Research**, 2026, Vol. 4, Issue 1, pp. 111--182. 
 13. [Quasi-arithmetic hyperbolic Coxeter prisms](https://arxiv.org/abs/2312.17193) (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
