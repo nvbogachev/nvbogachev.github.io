@@ -124,17 +124,17 @@ Pure math: algebraic and geometric topology, group theory, dynamics, number theo
 # Pure math: preprints/submitted papers 
 
 
-
-0. On mapping class groups (with Ilyas Bayramov; in preparation).
-1. Homology torsion of some reflective hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
-2. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups (in preparation).
-3. Singularity of harmonic measures for hyperbolic lattices\
+1. Arithmetic locally symmetric spaces and geodesic immersions (with [Misha Belolipetsky](http://w3.impa.br/~mbel/) and [Leone Slavich](https://leoneslavich.github.io/); in preparation).
+2. On mapping class groups (with Ilyas Bayramov; in preparation).
+3. Homology torsion of some reflective hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
+4. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups (in preparation).
+5. Singularity of harmonic measures for hyperbolic lattices\
   [arXiv:2609.40357](https://arxiv.org/abs/2609.40357), 12 pp., preprint (comments are very welcome!).
-4. Arithmetic trace rigidity (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
+6. Arithmetic trace rigidity (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   We had an OpenAI model propose solutions to both Sarnak’s bounded clustering and Schmutz’s linear growth conjectures in a guided Codex session, see the [github repo](https://github.com/sashakolpakov/arithmetic-trace-rigidity).
-5. Proof of the positive trace gap conjecture\
+7. Proof of the positive trace gap conjecture\
   [arXiv:2609.29033](https://arxiv.org/abs/2609.29033), 20 pp., preprint (comments are very welcome!).
-6. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
+8. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
   [arXiv:2512.09900](https://arxiv.org/abs/2512.09900), 23 pp., preprint (comments are very welcome!). 
 
 
@@ -160,7 +160,7 @@ Pure math: algebraic and geometric topology, group theory, dynamics, number theo
 
 15. [On quasi-arithmeticity of hyperbolic gluings](https://arxiv.org/abs/2307.07000) (with Dmitry Guschin and [Andrei Vesnin](http://math.nsc.ru/~vesnin/))\
   **Transactions of the American Mathematical Society**, to appear. 
-14. [Subspace stabilisers in hyperbolic lattices](https://arxiv.org/abs/2105.06897) (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](http://matematica.unipv.it/slavich/))\
+14. [Subspace stabilisers in hyperbolic lattices](https://arxiv.org/abs/2105.06897) (with [Misha Belolipetsky](http://w3.impa.br/~mbel/), [Alexander Kolpakov](https://sashakolpakov.wordpress.com/) & [Leone Slavich](https://leoneslavich.github.io/))\
   **Journal of the Association for Mathematical Research**, 2026, Vol. 4, Issue 1, pp. 111--182. 
 13. [Quasi-arithmetic hyperbolic Coxeter prisms](https://arxiv.org/abs/2312.17193) (with [Khusrav Yorov](https://cemse.kaust.edu.sa/people/person/khusrav-yorov))\
   **Proceedings of the American Mathematical Society**, 2025, Vol. 153, Number 11, pp. 4569--4584.
@@ -170,7 +170,7 @@ Pure math: algebraic and geometric topology, group theory, dynamics, number theo
   **Bulletin of the London Mathematical Society**, 2025, Vol. 57, Issue 8, pp. 2498--2508.
 10. [Infinitely many commensurability classes of compact Coxeter polyhedra in $\mathbb{H}^4$ and $\mathbb{H}^5$](https://arxiv.org/abs/2309.07691) (with [Sami Douba](https://www.math.uni-bonn.de/people/douba/) & [Jean Raimbault](https://www.i2m.univ-amu.fr/perso/jean.raimbault/))\
   **Advances in Mathematics**, 2024, Vol. 448, Paper No. 109705, 14 pp.
-9. [Arithmetic trialitarian hyperbolic lattices are not LERF](https://arxiv.org/abs/2310.20611) (with [Leone Slavich](http://matematica.unipv.it/slavich/) and [Hongbin Sun](https://sites.math.rutgers.edu/~hs735/))\
+9. [Arithmetic trialitarian hyperbolic lattices are not LERF](https://arxiv.org/abs/2310.20611) (with [Leone Slavich](https://leoneslavich.github.io//) and [Hongbin Sun](https://sites.math.rutgers.edu/~hs735/))\
   **International Mathematics Research Notices**, 2024, Vol. 2024 (13), pp. 10081--10087.
 8. [Kleinian sphere packings, reflection groups and arithmeticity](https://arxiv.org/abs/2203.01973) (with [Alex Kontorovich](https://sites.math.rutgers.edu/~alexk/) & [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   **Mathematics of Computation**, 2024, Vol. 93, no. 345, pp. 505--521.
