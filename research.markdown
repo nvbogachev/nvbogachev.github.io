@@ -128,7 +128,7 @@ Pure math: algebraic and geometric topology, group theory, dynamics, number theo
 2. On mapping class groups (with Ilyas Bayramov; in preparation).
 3. Homology torsion in coronal towers of hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
 4. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups\
-  [arXiv:2611.03539](https://arxiv.org/abs/2611.03539)
+  [arXiv:2611.03539](https://arxiv.org/abs/2611.03539), 33 pp., preprint (comments are very welcome!).
 5. Singularity of harmonic measures for hyperbolic lattices\
   [arXiv:2609.40357](https://arxiv.org/abs/2609.40357), 12 pp., preprint (comments are very welcome!).
 6. Arithmetic trace rigidity (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
