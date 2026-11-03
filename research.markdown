@@ -126,8 +126,9 @@ Pure math: algebraic and geometric topology, group theory, dynamics, number theo
 
 1. Arithmetic locally symmetric spaces and geodesic immersions (with [Misha Belolipetsky](http://w3.impa.br/~mbel/) and [Leone Slavich](https://leoneslavich.github.io/); in preparation).
 2. On mapping class groups (with Ilyas Bayramov; in preparation).
-3. Homology torsion of some reflective hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
-4. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups (in preparation).
+3. Homology torsion in coronal towers of hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
+4. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups\
+  [arXiv:2611.03539](https://arxiv.org/abs/2611.03539)
 5. Singularity of harmonic measures for hyperbolic lattices\
   [arXiv:2609.40357](https://arxiv.org/abs/2609.40357), 12 pp., preprint (comments are very welcome!).
 6. Arithmetic trace rigidity (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
