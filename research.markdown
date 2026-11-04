@@ -121,21 +121,25 @@ Pure math: algebraic and geometric topology, group theory, dynamics, number theo
   </a>
 </div>
 
-# Pure math: preprints/submitted papers 
+# Pure math: work in progress 
 
 
 1. Arithmetic locally symmetric spaces and geodesic immersions (with [Misha Belolipetsky](http://w3.impa.br/~mbel/) and [Leone Slavich](https://leoneslavich.github.io/); in preparation).
 2. On mapping class groups (with Ilyas Bayramov; in preparation).
-3. Homology torsion in coronal towers of hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
-4. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups\
-  [arXiv:2611.03539](https://arxiv.org/abs/2611.03539), 33 pp., preprint (comments are very welcome!).
-5. Singularity of harmonic measures for hyperbolic lattices\
-  [arXiv:2609.40357](https://arxiv.org/abs/2609.40357), 12 pp., preprint (comments are very welcome!).
-6. Arithmetic trace rigidity (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
+3. Arithmetic trace rigidity (with [Alexander Kolpakov](https://sashakolpakov.wordpress.com/))\
   We had an OpenAI model propose solutions to both Sarnak’s bounded clustering and Schmutz’s linear growth conjectures in a guided Codex session, see the [github repo](https://github.com/sashakolpakov/arithmetic-trace-rigidity).
-7. Proof of the positive trace gap conjecture\
+4. Homology torsion in cofinal towers of hyperbolic manifolds (with Vladimir Gorchakov; in preparation).
+
+
+# Pure math: preprints/submitted papers 
+
+1. $C^1$-rigidity of $H^{p,q}$-convex cocompact representations of Gromov hyperbolic groups\
+  [arXiv:2611.03539](https://arxiv.org/abs/2611.03539), 33 pp., preprint (comments are very welcome!).
+2. Singularity of harmonic measures for hyperbolic lattices\
+  [arXiv:2609.40357](https://arxiv.org/abs/2609.40357), 12 pp., preprint (comments are very welcome!).
+3. Proof of the positive trace gap conjecture\
   [arXiv:2609.29033](https://arxiv.org/abs/2609.29033), 20 pp., preprint (comments are very welcome!).
-8. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
+4. Random walks on cocompact Fuchsian and Kleinian groups (with [Peter Kosenko](https://personal.math.ubc.ca/~pkosenko/) and [Giulio Tiozzo](https://www.math.utoronto.ca/tiozzo/))\
   [arXiv:2512.09900](https://arxiv.org/abs/2512.09900), 23 pp., preprint (comments are very welcome!). 
 
 
